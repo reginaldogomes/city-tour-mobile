@@ -7,6 +7,7 @@ export default function Index() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
+        backgroundColor: "#F4EAD5",
       }}
     >
       <Text>Descrubra Três Marias</Text>
